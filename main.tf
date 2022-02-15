@@ -18,3 +18,4 @@ resource "aws_instance" "app_server" {
     Name = "Live-Test-15FEB"
   }
 }
+#this is the end of file
